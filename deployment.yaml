@@ -30,7 +30,7 @@ spec:
 
       - name: fastapi-app
 
-        image: joaovitorceppo/fastapi-app:latest
+        image: joaovitorceppo/fastapi-app:d0582ae3cbad9d514b6b6fc93f77796cc8b7aea9
 
         ports:
 
